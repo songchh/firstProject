@@ -1,3 +1,5 @@
 <?php
 
-echo "ss testing";
+function test(){
+	echo 'test';
+}
