@@ -1,2 +1,2 @@
 # firstProject
-socket connect to redis
+socket
