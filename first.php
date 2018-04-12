@@ -1,7 +1,7 @@
 <?php 
 
 $socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
-socket_connect($socket, '127.0.0.1', 6379);
+socket_connect($socket, '127.0.0.1', $argv[1]);
 
 while(1) {
         echo "input:";
