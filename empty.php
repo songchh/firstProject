@@ -1,4 +1,4 @@
 <?php
 
-echo "fuck";
-var_dump(empty(0));
+echo "what the fuck";
+echo "this is new line";
