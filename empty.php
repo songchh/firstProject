@@ -11,3 +11,5 @@ class emptyClass{
 		$this->name = $name;
 	}
 }
+
+$obj = new emptyClass('songchunhui');
