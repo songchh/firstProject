@@ -5,9 +5,9 @@ echo "this is new line";
 
 
 class emptyClass{
-
-	public function __construct()
-	{
-
+	private $name;
+	public function __construct($name)
+	{	
+		$this->name = $name;
 	}
 }
