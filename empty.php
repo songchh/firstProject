@@ -4,4 +4,10 @@ echo "what the fuck";
 echo "this is new line";
 
 
-class emptyClass{}
+class emptyClass{
+
+	public function __construct()
+	{
+
+	}
+}
