@@ -40,7 +40,7 @@ class adapter2
 		$this->handle->greate();
 	}
 }
-
+//bug#001
 class client
 {
 	public function run()
