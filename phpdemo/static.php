@@ -7,7 +7,7 @@ class a {
     }
     public function test()
     {
-       //self::func();
+       self::func();
        static::func();
     }
 }

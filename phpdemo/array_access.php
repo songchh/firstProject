@@ -40,6 +40,9 @@ $obj['name'] = 'songchunhui';
 
 print_r(isset($obj['name']));
 
-echo $obj['name'];
+
+echo PHP_EOL,$obj['name'];
 
 unset($obj['name']);
+
+echo PHP_EOL;
